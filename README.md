@@ -23,7 +23,7 @@ it has 4 folder which are <br />1) Closed_eyes - having 726 pictures<br />
                           4) no_yawn - having 723 pictures<br />
 
 ## The Convolution Neural Network
-![CNN]([https://user-images.githubusercontent.com/16632408/159187014-4bc4b70e-98d6-4313-873f-997ded2eff27.png](https://photos.app.goo.gl/GjYj7btgpWSiqRSo6))
+![CNN](https://github.com/BAPANAPALLIBALAKRISHNA/WORKER/blob/main/CNN.png?raw=true)
 
 ## Accuracy 
 We did 50 epochs, to get a good accuracy from the model i.e. 98% for training accuracy and 96% for validation accuracy.
@@ -34,6 +34,6 @@ We did 50 epochs, to get a good accuracy from the model i.e. 98% for training ac
 ![Open_eyes](https://github.com/BAPANAPALLIBALAKRISHNA/WORKER/blob/main/CLOSEDEYES.jpg)
 2. Close Eyes<br />
 Here we detect wheater the eyes are closed and count the number of frames for which the eyes were closed (which is 10 frame) greater then that the Alarm will ring and the WARNING sign is displayed.<br />
-!![Closed_eyes](https://github.com/BAPANAPALLIBALAKRISHNA/WORKER/blob/main/CLOSEDEYES.jpg?raw=true)
+![Closed_eyes](https://github.com/BAPANAPALLIBALAKRISHNA/WORKER/blob/main/CLOSEDEYES.jpg?raw=true)
 
 
